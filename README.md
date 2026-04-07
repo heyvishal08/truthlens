@@ -198,23 +198,10 @@ Final Verdict + Confidence Score + Signal Breakdown
 
 ---
 
-## 🗺️ Project Roadmap
-
-This is Project 1 of 5 in my MSc AI Engineering portfolio:
-
-| # | Project | Status |
-|---|---|---|
-| 1 | **TruthLens — Fake News Detector** | ✅ Complete |
-| 2 | RAG-Based Research Assistant | 🔲 Next |
-| 3 | Real-Time Stock Sentiment + Price Prediction | 🔲 Planned |
-| 4 | Smart Traffic Analysis System | 🔲 Planned |
-| 5 | Research Paper Replication + Extension | 🔲 Planned |
-
----
 
 ## 📬 Contact
 
-**Vishal** · BCA Graduate · MSc AI Engineering Applicant
+**Vishal Gupta** · MSc AI Engineering Applicant
 🔗 [GitHub](https://github.com/heyvishal08)
 
 ---
@@ -225,4 +212,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Portfolio Project #1 of 5 · Built as part of MSc AI Engineering application portfolio*
+
