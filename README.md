@@ -24,7 +24,7 @@ TruthLens takes any news article or headline and:
 
 ## 🚀 Live Demo
 
-> Deploy link will be added after HuggingFace Spaces deployment
+> (https://huggingface.co/spaces/ReizenO8/truthlens)
 
 ---
 
